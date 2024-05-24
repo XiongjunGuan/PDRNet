@@ -15,6 +15,13 @@
 ## Introduction
 Fingerprint dense registration aims to finely align fingerprint pairs at the pixel level, thereby reducing intra-class differences caused by distortion. Unfortunately, traditional methods exhibited subpar performance when dealing with low-quality fingerprints while suffering from slow inference speed. Although deep learning based approaches shows significant improvement in these aspects, their registration accuracy is still unsatisfactory. In this paper, we propose a Phase-aggregated Dual-branch Registration Network (PDRNet) to aggregate the advantages of both types of methods. A dual-branch structure with multi-stage interactions is introduced between correlation information at high resolution and texture feature at low resolution, to perceive local fine differences while ensuring global stability. Extensive experiments are conducted on more comprehensive databases compared to previous works. Experimental results demonstrate that our method reaches the state-of-the-art registration performance in terms of accuracy and robustness, while maintaining considerable competitiveness in efficiency.
 
+The overall flowchart of our proposed algorithm is shown as follows.
+<br>
+<p align="center">
+    <img src="./imgs/flowchart.png"/ width=50%> <br />
+</p>
+<br>
+
 The structure of **PDRNet** (the name `PDR` stands for **P**hase-aggregated **D**ual-branch **R**egistration) is shown as follows.
 <br>
 <p align="center">
