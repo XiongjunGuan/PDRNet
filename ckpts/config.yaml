@@ -1,0 +1,25 @@
+# train settings
+train_cfg:
+
+# traning database
+db_cfg:
+
+# save settings
+save_cfg:
+
+# model settings
+model_cfg:
+  input_mode: bimg
+  model: PDRNet_L4
+  num_class: 25
+  use_branch: both # both / context / corr
+  use_intensity: False
+  use_orientation: True
+  patch_size: 256
+  step: 2.5
+
+# loss settings
+loss_cfg:
+  smooth_weight: 1.0
+  grad_weight: 1.0
+  sigma: 2.0
