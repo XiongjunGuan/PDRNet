@@ -18,7 +18,7 @@ Fingerprint dense registration aims to finely align fingerprint pairs at the pix
 The overall flowchart of our proposed algorithm is shown as follows.
 <br>
 <p align="center">
-    <img src="./images/flowchart.png"/ width=50%> <br />
+    <img src="./images/flowchart.png"/ width=30%> <br />
 </p>
 <br>
 
