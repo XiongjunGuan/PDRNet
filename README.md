@@ -18,7 +18,7 @@ Fingerprint dense registration aims to finely align fingerprint pairs at the pix
 The structure of **PDRNet** (the name `PDR` stands for **P**hase-aggregated **D**ual-branch **R**egistration) is shown as follows.
 <br>
 <p align="center">
-    <img src="./imgs/method.png"/ width=90%> <br />
+    <img src="./images/method.png"/ width=90%> <br />
 </p>
 <br>
 
