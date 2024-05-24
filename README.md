@@ -2,7 +2,7 @@
 
 <img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 <a src="https://img.shields.io/badge/cs.CV-2404.17159-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2404.17159"> 
-   <img src="https://img.shields.io/badge/cs.CV-2404.17610-b31b1b?logo=arxiv&logoColor=red"> 
+   <img src="https://img.shields.io/badge/cs.CV-2404.17159-b31b1b?logo=arxiv&logoColor=red"> 
 </a> 
 
 ### 💬 This repo is the official implementation of:
