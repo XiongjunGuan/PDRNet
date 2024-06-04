@@ -92,8 +92,10 @@ If you find this repository useful, please give us stars and use the following B
 @article{guan2024phase,
   author={Guan, Xiongjun and Feng, Jianjiang and Zhou, Jie},
   journal={IEEE Transactions on Information Forensics and Security}, 
-  title={Phase-aggregated Dual-branch Network for Efficient Fingerprint Dense Registration}, 
+  title={Phase-Aggregated Dual-Branch Network for Efficient Fingerprint Dense Registration}, 
   year={2024},
+  volume={19},
+  pages={5712-5724},
 ```
 
 
